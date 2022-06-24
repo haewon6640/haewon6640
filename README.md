@@ -14,7 +14,7 @@ I am an ex-army personnel turned full stack software engineer. I am passionate a
   * <a href="https://angel.co/u/jerry-park-4">AngelList</a>
 
 You can check out some of my projects here: 
-<h3>💡<a href="flow-over-stack-3000.herokuapp.com">Queue Overflow</a> [ <a href="https://github.com/haewon6640/Queue-Overflow/">Repository</a> ]</h3> 
+<h3>💡<a href="https://flow-over-stack-3000.herokuapp.com">Queue Overflow</a> [ <a href="https://github.com/haewon6640/Queue-Overflow/">Repository</a> ]</h3> 
 
 Queue Overflow, a pixel-perfect clone of Stack Overflow, is a question forum for users to ask,  answer, comment, and vote on questions.
 
