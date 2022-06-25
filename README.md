@@ -10,7 +10,7 @@ I am an ex-army personnel turned full stack software engineer. I am passionate a
 </details>
 
 ### Keep in touch with me here!
-  * <a href="https://www.linkedin.com/in/hae-won-park-64820714a/">LinkedIn</a>
+  * <a href="https://www.linkedin.com/in/jerry-park-64820714a/">LinkedIn</a>
   * <a href="https://angel.co/u/jerry-park-4">AngelList</a>
 
 You can check out some of my projects here: 
